@@ -1,0 +1,25 @@
+{
+  "name": "kpischedulebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "now": "^15.4.0",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalor/kpiScheduleBot.git"
+  },
+  "author": "dalor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalor/kpiScheduleBot/issues"
+  },
+  "homepage": "https://github.com/dalor/kpiScheduleBot#readme"
+}

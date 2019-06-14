@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [{
+        "src": "index.js",
+        "use": "@now/node"
+    }],
+    "env": {
+        "BOT_TOKEN": "@kpischedulebottoken",
+        "PORT": "443"
+    }
+}
+  
