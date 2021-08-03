@@ -6,7 +6,7 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.30.0",
     "now": "^15.4.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {},
   "scripts": {
